@@ -1,4 +1,4 @@
-public class Ex02_ProfundidadeDoNo {
+public class Ex02ProfundidadeDoNo {
 
     static class No {
         int id;

@@ -1,4 +1,4 @@
-public class Ex03_AlturaDeUmNo {
+public class Ex03AlturaDeUmNo {
 
     static class No {
         int id;

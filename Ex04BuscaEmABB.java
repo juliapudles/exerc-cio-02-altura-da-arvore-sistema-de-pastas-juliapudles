@@ -1,4 +1,4 @@
-public class Ex04_BuscaEmABB {
+public class Ex04BuscaEmABB {
 
     static class No {
         int codigo;

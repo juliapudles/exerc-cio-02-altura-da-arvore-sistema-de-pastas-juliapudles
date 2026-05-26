@@ -1,4 +1,4 @@
-public class Ex01_AlturaDaArvore {
+public class Ex01AlturaDaArvore {
 
     static class No {
         String nome;
