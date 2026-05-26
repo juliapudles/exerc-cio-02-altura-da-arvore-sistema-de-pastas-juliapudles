@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex05_PreOrdem {
+public class Ex05PreOrdem {
 
     static class No {
         String etapa;
